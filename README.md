@@ -18,8 +18,7 @@
 1. 登录到 Alpine Linux 系统，确保拥有 root 权限
 2. 执行以下命令：
 
-```bash
-wget https://raw.githubusercontent.com/xinguddos/-alpine-Telegram-interactive-bot/main/install.sh && chmod +x install.sh && ./install.sh
+```bash https://raw.githubusercontent.com/XinGuDdos/-alpine-Telegram-interactive-bot-/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ## 后续配置
