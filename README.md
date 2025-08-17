@@ -19,7 +19,7 @@
 2. 执行以下命令：
 
 ```bash
-wget https://raw.githubusercontent.com/iczyaer/alpine-Telegram-interactive-bot/main/install.sh && chmod +x install.sh && ./install.sh
+wget https://raw.githubusercontent.com/xinguddos/-alpine-Telegram-interactive-bot/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ## 后续配置
